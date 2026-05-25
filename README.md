@@ -1,28 +1,22 @@
-## Hi there 👋
+# Hi there 👋
+My name is Mahmoud Radwan, and I am a Computer Science student specializing in IT Security at Hochschule Mittweida.
 
-My name is Mahmoud Radwan, a Computer Science student specializing in IT Security at Hochschule Mittweida.
-Interested in cybersecurity, programming, Linux systems, and technology.
+I am currently learning programming, Linux, and cybersecurity through university courses and self-learning.  
+Interested in technology, problem solving, and continuously improving my technical skills.
 
-👨‍💻 About Me
+## 🛠️ Skills
+- Java
+- Python
+- HTML & CSS
+- Linux
 
-I am currently studying Applied Computer Science with a focus on IT Security in Germany. I am still at the beginning of my journey in tech, learning programming, Linux, and cybersecurity while improving my skills through university projects and self-learning. I am interested in gaining more practical experience and continuing to develop myself in the IT field.
+## 🌍 Languages
+- Arabic — Native
+- German — C1
+- English — B2
 
-
-🌍 Languages
-
-Arabic — Native
-
-German — C1
-
-English — B2
-
-
-📫 Contact
-
-📍 Chemnitz, Germany
-
+## 📫 Contact
+📍 Chemnitz, Germany  
 📧 radwanmahmoud651@gmail.com
-
-📱 +49 176 41364919
 
 ⭐ Feel free to connect or collaborate!
